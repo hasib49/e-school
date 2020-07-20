@@ -1,0 +1,52 @@
+
+.sing-in{
+    background-color: #23df8a;
+    color: white;
+    padding: 12px 28px;
+    border-radius: 30px;
+}
+#bg-light{
+    background-color: #F0FFF0;
+}
+.any-s{
+    color: #21B573;
+}
+.carbg{
+    background-color: #F0FFF0;
+    padding: 60px 40px;
+}
+.ready-light{
+    color: #FD511A;
+}
+.get-button{
+    padding: 10px 25px;
+    background: #21B573;
+    border-radius: 33px;
+    color: white;
+    text-decoration: none;
+    border: 1px solid #21B573;
+}
+.pic img{
+    height: 90px;
+    width: 80px;
+}
+.card{
+    margin: 100px;
+}
+.buy-button{
+    width: 137px;
+    height: 35px;
+    margin: 0px 0 0 0;
+    color: white;
+    background: #21B573;
+    border-radius: 33px;
+    border: 1px solid #21B573;
+}
+.card-two{
+    margin-bottom: 100px;
+}
+el.style {
+    width: 20px;
+    height: 20px;
+    margin: 0px 0px 0px 23px;
+}
